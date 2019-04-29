@@ -1,7 +1,7 @@
 # flowersclassifer-
-FLowers classifier
+FLowers Image Classifier with pytorch -- From Udacity Nano degree "AI with Python" 
 
-This image classifier initialized with the pytorch.
+Author: Mohammad Ghadban
 
 part 1 : Jupyter Notebook 
 
